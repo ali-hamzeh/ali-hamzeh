@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ali-hamzeh
 - 👀 I’m interested in Computational Geophysics.
 - 🌱 I’m currently working on developing FWI for complex geologies.
-- 💞️ I’m looking to collaborate on Full Waveform Inversion.
+- 💞️ I’m looking to collaborate on Full Waveform Inversion projects.
 - 📫 You can reach me on Linkedin.
 
 <!---
